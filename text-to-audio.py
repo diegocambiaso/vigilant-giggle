@@ -5,7 +5,7 @@
 # GNU General Public License v3.0
 
 '''
-This script is for educational purposes and will let you convert text to a audio.
+This script is for educational purposes and will let you convert text to audio.
 '''
 
 from gtts import gTTS
